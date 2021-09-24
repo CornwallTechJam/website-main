@@ -10,6 +10,7 @@
 ;;     {:title "Finding us", :path "/locations/bodmin-library.html"}
 ;;   {:title "Finding us", :path "/locations/penwith-college.html"}
 ;;   {:title "Finding us", :path "/locations/headforwards.html"}
+   {:title "Finding us", :path "/locations/fibrehub.html"}
 ;;   {:title "Finding us", :path "/locations/heartlands.html"}
    {:title "Online Resources", :path "/resources.html"}
    {:title "Newsletter", :path "/newsletter.html"}
@@ -104,7 +105,7 @@
          ;   [:img {:src "/assets/img/meetup-logo.svg"}]]]] 
          [:div {:class "dropdown animated fadeInDown animation-delay-11"} 
           [:a {:href "/index.html"} 
-           [:i {:class "fa fa-bullhorn"}] " Next Tech Jam: TBC"]]]]]
+           [:i {:class "fa fa-bullhorn"}] " Next Tech Jam: 16th Oct"]]]]]
 
       [:nav {:class "navbar navbar-default navbar-header-full navbar-dark yamm navbar-static-top", :role "navigation", :id "header"}
        [:div {:class "container"}
